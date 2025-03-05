@@ -1,5 +1,4 @@
-# JazzClub
+# Education-Platform
 
-This is a demo website for Downtown Jazzclub
-With the style and colors of Jazz bars, the website aims to give every jazz enthusiast a cozy yet simple online experience
-as a taste of the welcoming Downtown Jazz club.
+This is a demo website for Coursat Agency.
+The platform offers access to multiple courses and includes multiple sections, introducing the achivements and qualifications of the agency.
